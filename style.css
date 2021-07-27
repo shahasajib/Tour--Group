@@ -1,0 +1,22 @@
+@media screen and (min-width:393px){
+    .header{
+        width: 100%;
+
+    }
+    #top{
+        width: 100%;
+
+    }
+    #Tips-Tricks{
+        width: 100%;
+
+    }
+    
+        
+    }
+    
+    .footer{
+        width:100%
+    }
+    
+}
